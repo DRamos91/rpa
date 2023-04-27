@@ -1,4 +1,7 @@
-# rpa
+# RPA
+
+Automação para consulta na tabela FIPE!
+
 Para iniciar o programa selecionar a pasta src/main/java > package rpa > classe Automacao.java
 Clicar com o botão direito sobre a classe Automacao.java > Run As > JUnit Test
 
